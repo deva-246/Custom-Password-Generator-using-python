@@ -1,5 +1,7 @@
 # Custom-Password-Generator-using-python
 
+This program helps the user to generate **n** number of passwords with an option of customizing the header. As a part of future enhancement this can also be presented through various other UIs and can be stored in any destination file.
+
 ## Prerequisites
 
   1. Python (any version)
